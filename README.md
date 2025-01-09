@@ -24,3 +24,6 @@
 - **SCIKIT-LEARN(sklearn):** A machine learning library called Scikit-learn offers easy-to-use and effective tools for data mining and analysis. It contains tools for model evaluation and preprocessing as well as algorithms for classification, regression, and clustering.
 - **MATPLOTLIB :** Matplotlib is a plotting library used for creating static, interactive, and animated visualizations in Python. It allows users to generate a wide variety of charts and graphs to visualize data insights effectively.
 - **SEABORN :** Seaborn is a Matplotlib-based data visualization library that offers a high-level interface for making visually appealing and educational statistics visualizations. It makes it easier to create intricate visualizations such as pair plots, box plots, and heatmaps.
+
+    ![OUTPUT 3](https://github.com/user-attachments/assets/a161c396-941a-4331-982f-c0c5d3206101)
+
